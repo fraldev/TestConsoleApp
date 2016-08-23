@@ -12,6 +12,8 @@ namespace TestConsoleApp
         {
             Console.Write("test");
             Console.Write("test2");
+
+            Console.ReadLine();
         }
     }
 }
